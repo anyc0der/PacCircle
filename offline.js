@@ -1,0 +1,33 @@
+﻿{
+	"version": 1641951463,
+	"fileList": [
+		"https://anyc0der.github.io/PacCircle/data.js",
+		"https://anyc0der.github.io/PacCircle/c2runtime.js",
+		"https://anyc0der.github.io/PacCircle/jquery-3.4.1.min.js",
+		"https://anyc0der.github.io/PacCircle/offlineClient.js",
+		"https://anyc0der.github.io/PacCircle/images/buttonstart-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/images/background-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/images/player-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/images/player-sheet1.png",
+		"https://anyc0der.github.io/PacCircle/images/points-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/images/texts.png",
+		"https://anyc0der.github.io/PacCircle/images/effectplayer-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/images/enemy-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/images/particlesenemy.png",
+		"https://anyc0der.github.io/PacCircle/images/particlesplayer1.png",
+		"https://anyc0der.github.io/PacCircle/images/particlesplayer2.png",
+		"https://anyc0der.github.io/PacCircle/images/dev-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/images/logo-sheet0.png",
+		"https://anyc0der.github.io/PacCircle/media/lose.ogg",
+		"https://anyc0der.github.io/PacCircle/media/start.ogg",
+		"https://anyc0der.github.io/PacCircle/media/best.ogg",
+		"https://anyc0der.github.io/PacCircle/media/point.ogg",
+		"https://anyc0der.github.io/PacCircle/media/enemy.ogg",
+		"https://anyc0der.github.io/PacCircle/icon-16.png",
+		"https://anyc0der.github.io/PacCircle/icon-32.png",
+		"https://anyc0der.github.io/PacCircle/icon-114.png",
+		"https://anyc0der.github.io/PacCircle/icon-128.png",
+		"https://anyc0der.github.io/PacCircle/icon-256.png",
+		"https://anyc0der.github.io/PacCircle/loading-logo.png"
+	]
+}
